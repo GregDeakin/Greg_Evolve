@@ -7,7 +7,10 @@ ka.ks.R will (eventually) work out ka/ks ratio for a set of aligned genes (will 
 
 ## seqeunce entropy and information density calculator
  
-How much time does a low density information carrier take to evolve - what is the minimum density for evolution of complexity
+How much time does a low density information carrier take to evolve - what is the minimum density for evolution of complexity.
 Entropy of seqeuences under selection and order due to drift.
+
+Entropic selection - will a sequence under natural selection evolve to maximise its entropy?
+
 
 
